@@ -2,3 +2,30 @@
 body {
     background-color: lightblue;
   }
+
+  #footer {
+    color: green;
+  }
+  .exp {
+    margin: 0px,25px,0px,25px;
+  }
+
+  .summary,.companies {
+    margin: 20px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+  }
+
+ 
+
+  th,td {text-align: left;}
+  table, th, td {
+    border: 1px solid black;border-spacing:2px;
+  }
+  table,tr {
+    height: 100px;
+    
+    width: 700px;
+  }
